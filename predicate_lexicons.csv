@@ -1,0 +1,463 @@
+word,lexicon category,arguments,polysemous,exclude for polysemy?
+call up,remember,dobj,n,
+recall,remember,cc,n,
+recollect,remember,dobj,n,
+remember,remember,cc,n,
+think back,remember,pobj,n,
+think of,remember,dobj,n,
+leave off,forget/err,dobj,n,
+misunderstand,forget/err,dobj,n,
+omit,forget/err,dobj,n,
+miss,forget/err,dobj,n,
+leave out,forget/err,dobj,n,
+ignore,forget/err,dobj,n,
+discount,forget/err,dobj,n,
+exclude,forget/err,dobj,n,
+neglect,forget/err,dobj,n,
+disregard,forget/err,dobj,n,
+overlook,forget/err,dobj,n,
+forget,forget/err,cc,n,
+affect,pretend,cc,y,n
+feign,pretend,cc,y,n
+dissemble,pretend,cc,y,n
+pretend,pretend,cc,n,
+simulate,pretend,cc,y,y
+make believe,pretend,cc,n,
+declare,declare,cc,n,
+exclaim,declare,cc,n,
+proclaim,declare,cc,n,
+announce,declare,cc,y,n
+cry out,declare,cc,n,
+avouch,declare,cc,n,
+annunciate,declare,cc,n,
+assert,declare,cc,n,
+pronounce,declare,,y,y
+swear,declare,,y,y
+profess,declare,,n,
+promise,declare,,n,
+avow,declare,,n,
+agree,agree,,y,n
+agree with,agree,,y,n
+acquiesce,agree,,n,
+defer,agree,,n,
+concur,agree,,n,
+echo,agree,,n,
+consent,agree,,y,y
+accede,agree,,n,
+grant,concede,,y,y
+admit,concede,,n,
+concede,concede,,n,
+allow,concede,,y,y
+confess,concede,,n,
+cede,concede,,n,
+accept,concede,,n,
+recognise,concede,,n,
+recognize,concede,,n,
+yield,concede,,y,y
+acknowledge,concede,,n,
+object,deny,,n,
+refute,deny,,n,
+depart,deny,,y,y
+diverge,deny,,n,
+deviate,deny,,n,
+disclaim,deny,,y,y
+dissent,deny,,n,
+rebuff,deny,,n,
+reject,deny,,n,
+deny,deny,,n,
+disagree with,deny,,n,
+disagree,deny,,n,
+oppose,deny,,n,
+verbalize,say,,n,
+quote,say,,n,
+interject,say,cc,y,n
+muse,say,,n,
+tell,say,dobj,n,
+add,say,,n,
+recount,say,,n,
+remark,say,,n,
+speak,say,,n,
+utter,say,,n,
+deliver,say,,y,y
+comment,say,,n,
+say,say,,n,
+talk about,say,,n,
+inform,say,,n,
+relay,say,,n,
+voice,say,,n,
+continue,say,cc,y,n
+state,say,,n,
+verbalise,say,,n,
+detail,mention,,n,
+note,mention,,n,
+bring up,mention,,n,
+report,mention,,n,
+enunciate,mention,,n,
+relate,mention,,n,
+mention,mention,,n,
+cite,mention,,n,
+refer,mention,,y,y
+pass along,mention,other source,n,
+elaborate,mention,,n,
+specify,mention,,n,
+opine,mention,,n,
+supply,mention,,y,y
+allude to,mention,,n,
+touch on,mention,,n,
+discuss,mention,,n,
+pass on,mention,other source,y,y
+recount,mention,,n,
+answer,respond,,n,
+restate,respond,,n,
+respond,respond,,n,
+reply,respond,,n,
+react,respond,,y,y
+react to,respond,,n,
+rejoin,respond,,y,y
+echo,repeat,,n,
+iterate,repeat,,n,
+reiterate,repeat,,n,
+restate,repeat,,n,
+repeat,repeat,,n,
+rehash,repeat,,n,
+recapitulate,repeat,,n,
+reprize,repeat,,n,
+reprise,repeat,,n,
+retell,repeat,,n,
+remind,repeat,,n,
+write,express,,n,
+communicate,express,,n,
+express,express,,n,
+indicate,express,,n,
+signal,express,,n,
+make known,express,,n,
+convey,express,,n,
+esteem,think,ones having to do w/ trust have certain kinds of presuppositions/slightly stronger,y,y
+imagine,think,,n,
+believe,think,,n,
+view,think,,n,
+intrust,think,"dobj, cc",y,n
+suppose,think,,n,
+suspect,think,,n,
+opine,think,,n,
+ponder,think,,n,
+consider,think,,n,
+trust,think,"dobj, cc",y,n
+surmise,think,,n,
+entrust,think,"dobj, cc",y,n
+sense,think,,n,
+feel,think,,n,
+contemplate,think,,n,
+figure,think,,n,
+reckon,think,,n,
+regard,think,,n,
+reflect,think,,n,
+ruminate,think,,n,
+see,think,"dobj, cc",y,n
+mull,think,,n,
+imagine,think,"dobj, cc",y,n
+presuppose,think,,n,
+trust,think,"dobj, cc",y,n
+presume,think,,n,
+convince,think,,y,y
+expect,think,"dobj, cc",y,n
+assume,think,,n,
+count on,think,,y,y
+imagine,think,"dobj, cc",y,y
+presuppose,think,,n,
+presume,think,,n,
+convince,think,,y,y
+surmise,think,,n,
+assume,think,,n,
+deem,think,,n,
+spell out,emphasize,,n,
+stress,emphasize,,n,
+emphasise,emphasize,,n,
+underline,emphasize,,n,
+emphasize,emphasize,,n,
+underscore,emphasize,,n,
+highlight,emphasize,,n,
+indicate,imply,,n,
+let on,imply,,n,
+imply,imply,,n,
+intimate,imply,,n,
+signal,imply,,n,
+hint,imply,,n,
+insinuate,imply,,n,
+envision,predict,,n,
+speculate,predict,,n,
+envisage,predict,,n,
+foretell,predict,,n,
+presage,predict,,n,
+forewarn,predict,,n,
+generalize,predict,,y,y
+bet,predict,"dobj, cc",y,n
+extrapolate,predict,,n,
+foresee,predict,,n,
+generalise,predict,,y,y
+picture,predict,,y,y
+predict,predict,,n,
+wager,predict,"dobj, cc",y,n
+predetermine,predict,,n,
+guess,predict,,n,
+prophesy,predict,,n,
+warrant,predict,,n,
+hazard,predict,,n,
+augur,predict,,n,
+expect,predict,,n,
+anticipate,predict,,n,
+sense,predict_tentative,"dobj, cc",y,n
+suspect,predict_tentative,,n,
+speculate,predict_tentative,,n,
+guess,predict_tentative,,n,
+hazard,predict_tentative,,n,
+project,predict_tentative,"dobj, cc",y,n
+theorize,predict_sci,,n,
+conjecture,predict_sci,,n,
+prognosticate,predict_sci,,n,
+forecast,predict_sci,,n,
+hypothesise,predict_sci,,n,
+postulate,predict_sci,,n,
+theorise,predict_sci,,n,
+estimate,predict_sci,,n,
+hypothesize,predict_sci,,n,
+adjure,advise,,n,
+alert,advise,,n,
+urge,advise,,n,
+advise,advise,,n,
+counsel,advise,,n,
+suggest,advise,,n,
+warn,advise,,n,
+instruct,advise,,n,
+caution,advise,,n,
+recommend,advise,,n,
+reassert,argue,presupposition of disagreement,n,
+object,argue,,n,
+quarrel,argue,,n,
+debate,argue,,n,
+proclaim,argue,,n,
+dispute,argue,,n,
+defend,argue,,y,y
+feud,argue,,n,
+repudiate,argue,,n,
+protest,argue,"dobj, cc",y,n
+retort,argue,,n,
+maintain,argue,"dobj, cc",y,n
+contend,argue,"pobj, cc",y,n
+quibble,argue,,n,
+insist,argue,,n,
+argue,argue,,n,
+dissent,argue,,n,
+clash,argue,,y,y
+contest,argue,"pobj, cc",y,n
+challenge,argue,,n,
+counterclaim,argue,,n,
+persuade,argue,,y,y
+bicker,argue,,n,
+oppose,argue,,n,
+assure,affirm,,n,
+endorse,affirm,,y,y
+corroborate,affirm,,n,
+attest,affirm,,n,
+uphold,affirm,,n,
+vouch,affirm,,n,
+support,affirm,,y,y
+convince,affirm,,y,y
+indorse,affirm,,y,y
+aver,affirm,,n,
+pledge,affirm,"dobj, cc",y,n
+reaffirm,affirm,,n,
+affirm,affirm,,n,
+testify,affirm,,n,
+assure,promise,,n,
+guarantee,promise,,n,
+ensure,promise,,n,
+insure,promise,,n,
+pledge,promise,,n,
+reassure,promise,,n,
+vow,promise,,n,
+disseminate,advance,,n,
+promulgate,advance,,n,
+spread,advance,,n,
+teach,advance,,n,
+publish,advance,,n,
+preach,advance,,n,
+broadcast,advance,,n,
+advertise,advance,,n,
+distribute,advance,,n,
+propagate,advance,,n,
+circulate,advance,,n,
+promote,advance,,n,
+push,advance,,y,y
+publicize,advance,,n,
+advance,advance,,y,y
+advertize,advance,,n,
+advocate,advance,,y,y
+publicise,advance,,n,
+doubt,doubt,"dobj, cc",y,n
+dispute,doubt,"dobj, cc",y,n
+contest,doubt,"dobj, cc",y,n
+mistrust,doubt,,n,
+distrust,doubt,,n,
+repudiate,doubt,,n,
+challenge,doubt,,y,y
+disbelieve,doubt,,n,
+think,reason,,n,
+deliberate,reason,,n,
+mull over,reason,,n,
+speculate,reason,,n,
+contemplate,reason,,n,
+assess,reason,,n,
+gauge,reason,,y,y
+reflect,reason,,n,
+ruminate,reason,,n,
+extrapolate,reason,,n,
+check,reason,,y,y
+ponder,reason,,n,
+measure,reason,,n,
+reason,reason,,n,
+examine,reason,,n,
+compute,arrive_via_reasoning,,n,
+ascertain,arrive_via_reasoning,,n,
+confirm,arrive_via_reasoning,,n,
+work out,arrive_via_reasoning,,n,
+establish,arrive_via_reasoning,,n,
+deduct,arrive_via_reasoning,,n,
+conclude,arrive_via_reasoning,,n,
+determine,arrive_via_reasoning,,n,
+certify,arrive_via_reasoning,,n,
+substantiate,arrive_via_reasoning,,n,
+calculate,arrive_via_reasoning,,n,
+infer,arrive_via_reasoning,,n,
+verify,arrive_via_reasoning,,n,
+gauge,arrive_via_reasoning,,y,y
+estimate,arrive_via_reasoning,,n,
+deduce,arrive_via_reasoning,,n,
+corroborate,arrive,,n,
+compute,arrive,,n,
+ascertain,arrive,,n,
+confirm,arrive,,n,
+work out,arrive,,n,
+establish,arrive,,n,
+conclude,arrive,,n,
+determine,arrive,,n,
+garner,arrive,,n,
+certify,arrive,,n,
+substantiate,arrive,,n,
+calculate,arrive,,n,
+gauge,arrive,,y,y
+estimate,arrive,,n,
+deduce,arrive,,n,
+judge,arrive,,n,
+resolve,arrive,,y,y
+deduct,arrive,,y,y
+intuit,arrive,,n,
+infer,arrive,,n,
+gather,arrive,,y,y
+verify,arrive,,n,
+decide,arrive,,y,y
+comprehend,understand,,n,
+grasp,understand,,n,
+garner,understand,,n,
+apprehend,understand,,n,
+recognize,understand,,n,
+gather,understand,,y,y
+understand,understand,,n,
+explicate,explain_sci,,n,
+illustrate,explain_sci,,n,
+teach,explain_sci,,n,
+clarify,explain_sci,,n,
+articulate,explain_sci,,n,
+elucidate,explain_sci,,n,
+expound,explain_sci,,n,
+explain,explain_sci,,n,
+corroborate,show,,n,
+uncover,show,,n,
+reveal,show,,n,
+establish,show,,n,
+verify,show,,n,
+identify,show,"dobj, cc",y,n
+indicate,show,"dobj, cc",y,n
+prove,show,,n,
+document,show,,n,
+show,show,"dobj, cc",y,n
+illustrate,show,"dobj, cc",y,n
+point out,show,,n,
+demonstrate,show,"dobj, cc",y,n
+outline,show,,n,
+delineate,show,,n,
+notify,show,,n,
+construe,show_tentative,,n,
+venture,show_tentative,"dobj, cc",y,n
+propose,show_tentative,,n,
+submit,show_tentative,"dobj, cc",y,n
+posit,show_tentative,,n,
+suggest,show_tentative,,n,
+conceive,show_tentative,,n,
+present,show_tentative,,y,y
+put forward,show_tentative,,n,
+offer,show_tentative,,y,y
+divulge,show_hidden,,n,
+uncover,show_hidden,,n,
+give away,show_hidden,,y,y
+confess,show_hidden,,n,
+disclose,show_hidden,,n,
+unveil,show_hidden,,n,
+let out,show_hidden,,y,y
+confide,show_hidden,,n,
+reveal,show_hidden,,n,
+expose,show_hidden,,n,
+perceive,be_shown,,n,
+get wind,be_shown,,n,
+detect,be_shown,,n,
+hear,be_shown,,y,y
+find out,be_shown,,n,
+observe,be_shown,,n,
+find,be_shown,"dobj, cc",y,n
+see,be_shown,"dobj, cc",y,n
+glean,be_shown,,y,y
+witness,be_shown,,y,y
+apprise,be_shown,,n,
+realize,be_shown,,n,
+get word,be_shown,,n,
+discover,be_shown,"dobj, cc",y,n
+notice,be_shown,"dobj, cc",y,n
+unearth,be_shown,"dobj, cc",y,n
+recognize,be_shown,"dobj, cc",y,n
+discern,be_shown,"dobj, cc",y,n
+learn,be_shown,"dobj, cc",y,n
+realise,be_shown,"dobj, cc",y,n
+tell,be_shown,cc,n,
+claim,claim,,n,
+overembellish,claim,,n,
+allege,claim,,n,
+misrepresent,claim,,n,
+hyperbolize,claim,,n,
+mislead,claim,,n,
+overestimate,claim,,n,
+delude,claim,,n,
+overstate,claim,,n,
+embellish,claim,,n,
+deceive,claim,,n,
+exaggerate,claim,,n,
+misquote,claim,,n,
+distort,claim,,n,
+counterclaim,claim,,n,
+lie,claim,,n,
+overemphasize,claim,,n,
+specify,other,,n,
+approve,other_emotive,,y,y
+pray,other_emotive,,y,y
+dream,other_emotive,,y,y
+expostulate,other_emotive,,n,
+appreciate,other_emotive,,y,y
+hope,other_emotive,,n,
+criticize,other_emotive,,n,
+complain,other_emotive,,n,
+plead,other_emotive,,n,
+fancy,other_emotive,,y,y
+whisper,other_manner,,n,
+recite,other_manner,,n,
+read,other_manner,,y,y
+narrate,other_manner,,n,
+mumble,other_manner,,n,
