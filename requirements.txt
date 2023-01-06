@@ -3,7 +3,7 @@ async-generator==1.10
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-certifi==2021.5.30
+certifi==2016.9.26
 cffi==1.14.0
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
@@ -41,6 +41,7 @@ packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.1.5
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1665356157073/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
@@ -60,6 +61,7 @@ seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 sip==4.19.25
 six @ file:///tmp/build/80754af9/six_1644875935023/work
+statsmodels==0.12.2
 terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
