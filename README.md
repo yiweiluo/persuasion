@@ -15,4 +15,3 @@ Archival version coming soon!
 * `predicate_lexicons.csv` contains lists of predicates categorized according to factive, concessive, etc. semantic categories
 * `sci_ents.txt` contains the set of scientific entities (e.g., "study," "biologist") compiled using seed words and WordNet that was used to extract ngrams with a scientific source
 * `main.ipynb` contains code for extracting features and fitting a logistic regression model to analyze persuasive argument features
-* 
