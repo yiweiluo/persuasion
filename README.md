@@ -8,7 +8,7 @@ Archival version coming soon!
 ## Getting started
 1. Create and activate a Python 3.6 environment.
 2. Run `pip install -r requirements.txt`.
-3. Download and extract `comment_ID2text.pkl.tar.gz` from [link]() to your clone of this repository.
+3. Download and extract `comment_ID2text.pkl.tar.gz` from [link](https://drive.google.com/file/d/1CF8DQ3mtPnB08OoHJOMGNKbyfq4owzMi/view?usp=sharing) to your clone of this repository.
 
 ## Repository contents
 * `per_path_df.csv` is a dataframe with each row corresponding to an argument within the full dataset. Arguments are indexed by the root comment ID and leaf comment ID corresponding to the initial and final comments, repsectively, in the full argument subtree. The column `path_root_to_leaf` lists the full chain of comments comprising an argument, and `filtered_path_root_to_leaf` lists the chain of comments with deleted comments, empty comments, and comments written by the original user removed.
